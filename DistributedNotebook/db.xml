@@ -1,0 +1,62 @@
+<data>
+    <topic name="Animal Things">
+        <note name="Dogs are better than cats 03">
+            <text>
+            Dogs respond when you call their name (unlike cats, who just ignore you)
+            </text>
+            <timestamp>
+            03/16/21 - 14:03:04
+            </timestamp>
+        </note>
+    </topic>
+    <topic name="Movies">
+        <note name="Cats the movie was an abomination">
+            <text>Cats the movie was an abomination and anyone who was a part of it should be ashamed</text>
+            <timestamp>24/03/2022 - 18:02:09</timestamp>
+            </note>
+        <note name="Why are we still here?">
+            <text>
+            Just to suffer
+            </text>
+            <timestamp>
+            24/03/2022 - 23:13:40
+            </timestamp>
+        </note>
+    </topic>
+    <topic name="Test1">
+		<note name="just a test">
+			<text>
+			just a test nothing to worry about 
+			</text>
+			<timestamp>
+			24/03/2022 - 18:08:22
+			</timestamp>
+		</note>
+	</topic>
+    <topic name="Test2">
+        <note name="second test">
+            <text>
+            just the second test topic and its first note
+            </text>
+            <timestamp>
+            24/03/2022 - 23:15:21
+            </timestamp>
+        </note>
+    </topic>
+<topic name="Testing">
+<note name="testname">
+<text>
+just a test
+</text>
+<timestamp>
+25/03/2022 - 17:30:02
+</timestamp>
+</note>
+<note name="testname2">
+<text>
+not another test please
+</text>
+<timestamp>
+25/03/2022 - 17:30:30
+</timestamp>
+</note></topic></data>
